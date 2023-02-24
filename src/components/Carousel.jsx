@@ -15,11 +15,11 @@ const Carousel = () => {
         </div>
         {/* item 1 */}
         <div
-          class="https://t-2.tstatic.net/tribunnewswiki/foto/bank/images/Vonzy-213.jpg"
+          class="https://api.duniagames.co.id/api/content/upload/file/13601127281674704959.jpg"
           data-carousel-item
         >
           <img
-            src="https://t-2.tstatic.net/tribunnewswiki/foto/bank/images/Vonzy-213.jpg"
+            src="https://esports-indonesia.com/wp-content/uploads/2022/12/Vonzy-753x445.jpg"
             class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
             alt="..."
           />
@@ -30,7 +30,7 @@ const Carousel = () => {
           data-carousel-item="active"
         >
           <img
-            src="https://t-2.tstatic.net/tribunnewswiki/foto/bank/images/Vonzy-213.jpg"
+            src="https://asset-a.grid.id/crop/11x39:1062x833/700x465/photo/2022/11/10/screenshot_20221110_170242jpg-20221110050252.jpg"
             class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
             alt="..."
           />
@@ -38,7 +38,7 @@ const Carousel = () => {
         {/* item 1 */}
         <div class="hidden duration-200 ease-linear" data-carousel-item>
           <img
-            src="https://t-2.tstatic.net/tribunnewswiki/foto/bank/images/Vonzy-213.jpg"
+            src="https://digstraksi.com/wp-content/uploads/2022/09/277817724_645883533182802_8931139240963147517_n.jpeg"
             class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
             alt="..."
           />
@@ -46,7 +46,7 @@ const Carousel = () => {
         {/* item 1 */}
         <div class="hidden duration-200 ease-linear" data-carousel-item>
           <img
-            src="https://t-2.tstatic.net/tribunnewswiki/foto/bank/images/Vonzy-213.jpg"
+            src="https://thumb.intipseleb.com/media/frontend/thumbs3/2022/08/15/62f9ddabefa01-vonny-felicia_1265_711.jpg"
             class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
             alt="..."
           />

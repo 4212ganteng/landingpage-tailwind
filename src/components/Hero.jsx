@@ -1,5 +1,6 @@
 import React from "react";
 import Typewriter from "typewriter-effect";
+import phone from "../assets/image/img_box_29_orange.png";
 
 const Hero = () => {
   return (
@@ -72,35 +73,42 @@ const Hero = () => {
           </form>
 
           {/* phone */}
-          <div className="text-slate-500 font-semibold text-xl mt-4">
-            <h1>800-123-4567</h1>
-            <p>INFO@COMPANY.COM</p>
+          <div className="text-slate-500 font-semibold text-xl mt-12">
+            <div class="flex flex-col sm:flex-row items-center">
+              <img
+                src={phone}
+                alt="phone"
+                className="w-7 sm:-ml-8 mb-2 sm:mb-0"
+              />
+              <h1 class="md:ml-2  mr-2">800-123-4567</h1>
+              <p className="">INFO@COMPANY.COM</p>
+            </div>
           </div>
         </div>
       </div>
 
-      <div className="container flex items-center max-w-sm mb-12">
-        <div className="flex gap-40 mx-auto ">
+      <div className="container flex items-center max-w-sm  mb-12 mx-auto md:max-w-full">
+        <div className=" mx-auto md:grid grid-cols-4  gap-12">
           <img
             src="https://livewp.site/wp/md/ewebot/wp-content/uploads/sites/64/2019/07/1.png"
             alt=""
-            className="w-40 h-10"
+            className="w-40 h-10 mb-8"
           />
           <img
             src="https://livewp.site/wp/md/ewebot/wp-content/uploads/sites/64/2019/07/2.png"
             alt=""
-            className="w-40 h-10"
+            className="w-40 h-10 mb-8"
           />
 
           <img
             src="https://livewp.site/wp/md/ewebot/wp-content/uploads/sites/64/2019/07/2.png"
             alt=""
-            className="w-40 h-10"
+            className="w-40 h-10 mb-8"
           />
           <img
             src="https://livewp.site/wp/md/ewebot/wp-content/uploads/sites/64/2019/07/1.png"
             alt=""
-            className="w-40 h-10"
+            className="w-40 h-10 mb-8"
           />
         </div>
       </div>
